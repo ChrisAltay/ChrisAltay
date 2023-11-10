@@ -9,8 +9,6 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
    <a href="PORTFOLIO_in_progress"><img alt="Portfolio" title="View my Portfolio" src="https://custom-iconbadges.demolab.com/badge/Portfolio-236ad3?style=for-the-badge&labelColor=white"></a>
 </p>
 
-
-
 ---
 
 <h2>🛠️ Tools I Use 🛠️</h2>
@@ -19,7 +17,9 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <p>
    <a href="YOUR_HTML_LINK"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"></a>
    <a href="YOUR_CSS_LINK"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6"></a>
-   <a href="YOUR_JAVASCRIPT_LINK"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122Astyle=flat&logo=javascript</a>
+   <a href="YOUR_JAVASCRIPT_LINK">
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+   </a>
    <a href="YOUR_SQL_LINK"><img alt="SQL" src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white"></a>
    <a href="YOUR_PHP_LINK"><img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"></a>
    <a href="YOUR_JAVA_LINK"><img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white"></a>
