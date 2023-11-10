@@ -4,14 +4,14 @@
 
 Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a flair for creating intuitive and dynamic websites. As I wrap up my B.S. in Computer Science at Kean Univeristy, I'm deeply engaged in perfecting user-centric designs and robust front-end architectures. Explore my repositories to see my hands-on approach to problem-solving and innovative project work. Let's collaborate and turn bold ideas into digital realities!. Feel free to check out my Portfolio & follow me to stay connected!
 
+<p align="center">
+   <a href="PORTFOLIO_in_progress" alt="Portfolio in progress">
+      <img alt="Portfolio" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-236ad3?style=for-the-badge&logo=briefcase&labelColor=white&logoColor=236ad3"/></a>     
+</p>
    <p align="left">
       <a href="https://github.com/ChrisAltay?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ChrisAltay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>     
    </p>
-   <p align="right">
-   <a href="PORTFOLIO_in_progress" alt="Portfolio in progress">
-      <img alt="Portfolio" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-236ad3?style=for-the-badge&logo=briefcase&labelColor=white&logoColor=236ad3"/></a>     
-</p>
 
 
 ---
