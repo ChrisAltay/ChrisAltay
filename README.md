@@ -20,7 +20,6 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 
 <h3>👨🏽‍💻 Programming Languages</h3>
 <p>
-<p>
    <a href="YOUR_HTML_LINK">
       <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"/>&nbsp;
    </a>
@@ -41,26 +40,56 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
    </a>
 </p>
 
-</p>
-
 <h3>💻 Software and Tools</h3>
 <p>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=5865F2)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=google-sheets&logoColor=34A853)&nbsp;
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025)&nbsp;
+<a href="YOUR_VSCODE_LINK">
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+</a>
+<a href="YOUR_ECLIPSE_LINK">
+   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
+</a>
+<a href="YOUR_EXCEL_LINK">
+   <img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+</a>
+<a href="YOUR_DISCORD_LINK">
+   <img alt="Discord" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=5865F2"/>
+</a>
+<a href="YOUR_GIT_LINK">
+   <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032"/>
+</a>
+<a href="YOUR_GOOGLE_SHEETS_LINK">
+   <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=google-sheets&logoColor=34A853"/>
+</a>
+<a href="YOUR_STACK_OVERFLOW_LINK">
+   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025"/>
+</a>
 </p>
 <h3>🗃️ Frameworks and Libraries</h3>
 <p>
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Discord.js](https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+<p>
+<a href="YOUR_BOOTSTRAP_LINK">
+   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
+</a>
+<a href="YOUR_DISCORD_JS_LINK">
+   <img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2"/>
+</a>
+<a href="YOUR_REACT_LINK">
+   <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"/>
+</a>
+</p>
+
 </p>
 <h3>🌐 Databases and Cloud Hosting</h3>
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=github&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white)&nbsp;
+<p>
+<a href="YOUR_GITHUB_PAGES_LINK">
+   <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="YOUR_MYSQL_LINK">
+   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1"/>
+</a>
+<a href="YOUR_VERCEL_LINK">
+   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
 
