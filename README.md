@@ -21,22 +21,22 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <h3>👨🏽‍💻 Programming Languages</h3>
 <p>
    <a href="YOUR_HTML_LINK">
-      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"/>&nbsp;
+      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"/>
    </a>
    <a href="YOUR_CSS_LINK">
-      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6"/>&nbsp;
+      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6"/>
    </a>
    <a href="YOUR_JAVASCRIPT_LINK">
-      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
    </a>
    <a href="YOUR_SQL_LINK">
-      <img alt="SQL" src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white"/>&nbsp;
+      <img alt="SQL" src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white"/>
    </a>
    <a href="YOUR_PHP_LINK">
-      <img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
+      <img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>
    </a>
    <a href="YOUR_JAVA_LINK">
-      <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white"/>&nbsp;
+      <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white"/>
    </a>
 </p>
 
@@ -64,8 +64,8 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025"/>
 </a>
 </p>
+
 <h3>🗃️ Frameworks and Libraries</h3>
-<p>
 <p>
 <a href="YOUR_BOOTSTRAP_LINK">
    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
@@ -78,7 +78,6 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 </a>
 </p>
 
-</p>
 <h3>🌐 Databases and Cloud Hosting</h3>
 <p>
 <a href="YOUR_GITHUB_PAGES_LINK">
@@ -91,5 +90,3 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white"/>
 </a>
 </p>
-
-
