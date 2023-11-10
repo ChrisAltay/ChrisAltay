@@ -6,7 +6,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 
 <p align="left">
    <a href="PORTFOLIO_in_progress">
-      <img alt="Portfolio" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-236ad3?style=for-the-badge&logo=briefcase&labelColor=white&logoColor=236ad3"/></a>     
+      <img alt="Portfolio" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-236ad3?style=for-the-badge&labelColor=white"/></a>     
 </p>
    <p align="left">
       <a href="https://github.com/ChrisAltay?tab=followers">
