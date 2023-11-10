@@ -20,12 +20,27 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 
 <h3>👨🏽‍💻 Programming Languages</h3>
 <p>
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+<p>
+   <a href="YOUR_HTML_LINK">
+      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"/>&nbsp;
+   </a>
+   <a href="YOUR_CSS_LINK">
+      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6"/>&nbsp;
+   </a>
+   <a href="YOUR_JAVASCRIPT_LINK">
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
+   </a>
+   <a href="YOUR_SQL_LINK">
+      <img alt="SQL" src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white"/>&nbsp;
+   </a>
+   <a href="YOUR_PHP_LINK">
+      <img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
+   </a>
+   <a href="YOUR_JAVA_LINK">
+      <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white"/>&nbsp;
+   </a>
+</p>
+
 </p>
 
 <h3>💻 Software and Tools</h3>
