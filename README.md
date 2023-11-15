@@ -1,6 +1,6 @@
-# 👨🏽‍💻 Christopher Altagracia
+# 👨🏽‍💻 Christopher Altagracia ☑
 
-**`Web Developer`**
+**`Web Developer ☑️`**
 
 Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a flair for creating intuitive and dynamic websites. As I wrap up my B.S. in Computer Science at Kean University, I'm deeply engaged in perfecting user-centric designs and robust front-end architectures. Explore my repositories to see my hands-on approach to problem-solving and innovative project work. Let's collaborate and turn bold ideas into digital realities! Feel free to check out my Portfolio & follow me to stay connected!
 
@@ -16,7 +16,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 
 ---
 
-<h2>🛠️ Tools I Use 🛠️</h2>
+<h2>🛠️ My Toolkit </h2>
 <h3>👨🏽‍💻 Programming Languages</h3>
 <p>
    <a href="YOUR_HTML_LINK"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"></a><br>
@@ -28,7 +28,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
    <a href="YOUR_JAVA_LINK"><img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white"></a><br>
 </p>
 
-<h3>💻 Software and Tools</h3>
+<h3>💻 Applications and Utilities</h3>
 <p>
 <a href="YOUR_VSCODE_LINK"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></a><br>
 <a href="YOUR_ECLIPSE_LINK"><img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"></a><br>
@@ -37,6 +37,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <a href="YOUR_GIT_LINK"><img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032"></a><br>
 <a href="YOUR_GOOGLE_SHEETS_LINK"><img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=google-sheets&logoColor=34A853"></a><br>
 <a href="YOUR_STACK_OVERFLOW_LINK"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025"></a>
+</p>
 
 
 <h3>🗃️ Frameworks and Libraries</h3>
@@ -45,7 +46,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <a href="YOUR_REACT_LINK"><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"></a><br>
 </p>
 
-<h3>🌐 Databases and Cloud Hosting</h3>
+<h3>🌐 Data Storage and Cloud Services</h3>
 <p>
 <a href="YOUR_GITHUB_PAGES_LINK"><img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=github&logoColor=white"></a><br>
 <a href="YOUR_MYSQL_LINK"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1"></a><br>
