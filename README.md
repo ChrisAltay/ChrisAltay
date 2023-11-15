@@ -40,7 +40,6 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 
 
 <h3>🗃️ Frameworks and Libraries</h3>
-<p>
 <a href="YOUR_BOOTSTRAP_LINK"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a><br>
 <a href="YOUR_DISCORD_JS_LINK"><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2"></a><br>
 <a href="YOUR_REACT_LINK"><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"></a><br>
