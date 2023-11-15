@@ -26,9 +26,10 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
    <a href="YOUR_SQL_LINK"><img alt="SQL" src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white"></a><br>
    <a href="YOUR_PHP_LINK"><img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"></a><br>
    <a href="YOUR_JAVA_LINK"><img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white"></a><br>
-
+</p>
 
 <h3>💻 Software and Tools</h3>
+<p>
 <a href="YOUR_VSCODE_LINK"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></a><br>
 <a href="YOUR_ECLIPSE_LINK"><img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"></a><br>
 <a href="YOUR_EXCEL_LINK"><img alt="Microsoft Excel" src="https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"></a><br>
@@ -36,6 +37,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <a href="YOUR_GIT_LINK"><img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032"></a><br>
 <a href="YOUR_GOOGLE_SHEETS_LINK"><img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=google-sheets&logoColor=34A853"></a><br>
 <a href="YOUR_STACK_OVERFLOW_LINK"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025"></a><br>
+</p>
 
 
 <h3>🗃️ Frameworks and Libraries</h3>
@@ -43,6 +45,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <a href="YOUR_BOOTSTRAP_LINK"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a><br>
 <a href="YOUR_DISCORD_JS_LINK"><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2"></a><br>
 <a href="YOUR_REACT_LINK"><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"></a><br>
+</p>
 
 <h3>🌐 Databases and Cloud Hosting</h3>
 <p>
