@@ -36,8 +36,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <a href="YOUR_DISCORD_LINK"><img alt="Discord" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=5865F2"></a><br>
 <a href="YOUR_GIT_LINK"><img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032"></a><br>
 <a href="YOUR_GOOGLE_SHEETS_LINK"><img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=google-sheets&logoColor=34A853"></a><br>
-<a href="YOUR_STACK_OVERFLOW_LINK"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025"></a><br>
-</p>
+<a href="YOUR_STACK_OVERFLOW_LINK"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025"></a>
 
 
 <h3>🗃️ Frameworks and Libraries</h3>
