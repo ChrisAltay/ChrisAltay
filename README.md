@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Christopher Altagracia ☑
+# 👨🏽‍💻 Christopher Altagracia 
 
 **`Web Developer ☑️`**
 
