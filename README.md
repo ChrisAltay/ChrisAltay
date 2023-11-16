@@ -6,8 +6,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 
 <p>
    <a href="https://github.com/ChrisAltay?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ChrisAltay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ChrisAltay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="PORTFOLIO_in_progress">
       <img alt="Portfolio" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-236ad3?style=for-the-badge&labelColor=white"/>
    </a>
@@ -16,7 +15,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 
 ---
 
-<h2>🛠️ My Toolkit </h2>
+<h2>🛠️ My Toolkit 🛠️ </h2>
 <h3>👨🏽‍💻 Programming Languages</h3>
 <p>
    <a href="YOUR_HTML_LINK"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"></a><br>
