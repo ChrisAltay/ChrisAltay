@@ -39,14 +39,11 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 </p>
 
 
-<h3>🗃️ Frameworks and Libraries</h3>
+<h3>🗃️ Integrated Software and 🌐 Cloud Infrastructure. </h3>
+<p>
 <a href="YOUR_BOOTSTRAP_LINK"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a><br>
 <a href="YOUR_DISCORD_JS_LINK"><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2"></a><br>
 <a href="YOUR_REACT_LINK"><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"></a><br>
-</p>
-
-<h3>🌐 Data Storage and Cloud Services</h3>
-<p>
 <a href="YOUR_GITHUB_PAGES_LINK"><img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=github&logoColor=white"></a><br>
 <a href="YOUR_MYSQL_LINK"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1"></a><br>
 <a href="YOUR_VERCEL_LINK"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white"></a><br>
