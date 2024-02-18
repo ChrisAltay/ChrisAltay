@@ -7,7 +7,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <p>
    <a href="https://github.com/ChrisAltay?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ChrisAltay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="PORTFOLIO_in_progress">
+   <a href="https://chrisaltay-dev.netlify.app">
       <img alt="Portfolio" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-236ad3?style=for-the-badge&labelColor=white"/>
    </a>
 </p>
@@ -41,10 +41,11 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 
 <h3>🗃️ Integrated Software and 🌐 Cloud Infrastructure. </h3>
 <p>
-<a href="YOUR_BOOTSTRAP_LINK"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a><br>
-<a href="YOUR_DISCORD_JS_LINK"><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2"></a><br>
+<a href="YOUR_BOOTSTRAP_LINK"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a>
+<a href="YOUR_TAILWIND_LINK"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=white"/></a> <br>
+<a href="YOUR_MYSQL_LINK"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1"></a>
+<a href="YOUR_NETLIFY_LINK"><img alt="Netlify" src="https://img.shields.io/badge/netlify.app-05122A?style=flat&logo=netlify&logoColor=white"/></a> <br>
+<a href="YOUR_DISCORD_JS_LINK"><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2"></a>
 <a href="YOUR_REACT_LINK"><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"></a><br>
-<a href="YOUR_GITHUB_PAGES_LINK"><img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=github&logoColor=white"></a><br>
-<a href="YOUR_MYSQL_LINK"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1"></a><br>
-<a href="YOUR_VERCEL_LINK"><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=white"></a><br>
+<a href="YOUR_GITHUB_PAGES_LINK"><img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=github&logoColor=white"></a>
 </p>
