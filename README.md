@@ -7,7 +7,7 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <p>
    <a href="https://github.com/ChrisAltay?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ChrisAltay?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://chrisaltay-dev.netlify.app">
+   <a href="https://chrisaltay.netlify.app">
       <img alt="Portfolio" title="View my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-236ad3?style=for-the-badge&labelColor=white"/>
    </a>
 </p>
