@@ -2,7 +2,7 @@
 
 **`Web Developer ☑️`**
 
-Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a flair for creating intuitive and dynamic websites. As I wrap up my B.S. in Computer Science at Kean University, I'm deeply engaged in perfecting user-centric designs and robust front-end architectures. Explore my repositories to see my hands-on approach to problem-solving and innovative project work. Let's collaborate and turn bold ideas into digital realities! Feel free to check out my Portfolio & follow me to stay connected!
+Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a flair for creating intuitive and dynamic websites. As I wrap up my M.S. in Information Systems at Kean University, I'm deeply engaged in perfecting user-centric designs and robust front-end architectures. Explore my repositories to see my hands-on approach to problem-solving and innovative project work. Let's collaborate and turn bold ideas into digital realities! Feel free to check out my Portfolio & follow me to stay connected!
 
 <p>
    <a href="https://github.com/ChrisAltay?tab=followers">
