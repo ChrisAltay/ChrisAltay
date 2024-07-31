@@ -36,6 +36,8 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <a href=""><img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032"></a>
 <a href=""><img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-05122A?style=flat&logo=google-sheets&logoColor=34A853"></a><br>
 <a href=""><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stack-overflow&logoColor=F58025"></a>
+<a href=""><img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"></a>
+<a href=""><img alt="W3Schools" src="https://img.shields.io/badge/-W3Schools-4CAF50?style=flat&logo=w3schools&logoColor=white"></a>
 </p>
 
 
@@ -44,9 +46,12 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <a href=""><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"></a>
 <a href=""><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=white"/></a> <br>
 <a href=""><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1"></a>
+<a href=""><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></a>
 <a href=""><img alt="Netlify" src="https://img.shields.io/badge/netlify.app-05122A?style=flat&logo=netlify&logoColor=white"/></a> <br>
 <a href=""><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2"></a>
 <a href=""><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"></a>
+<a href=""><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></a>
+<a href=""><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 <a href=""><img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub%20Pages-05122A?style=flat&logo=github&logoColor=white"></a>
 <a href=""><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white"></a>
 
