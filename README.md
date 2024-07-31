@@ -48,7 +48,6 @@ Welcome to my GitHub space! I'm Christopher Altagracia, a Web Developer with a f
 <a href=""><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1"></a>
 <a href=""><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></a>
 <a href=""><img alt="Netlify" src="https://img.shields.io/badge/netlify.app-05122A?style=flat&logo=netlify&logoColor=white"/></a> <br>
-<a href=""><img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-05122A?style=flat&logo=discord&logoColor=5865F2"></a>
 <a href=""><img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB"></a>
 <a href=""><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"></a>
 <a href=""><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
