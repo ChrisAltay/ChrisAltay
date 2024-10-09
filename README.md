@@ -15,15 +15,15 @@ Welcome to my GitHub space! I'm Christopher P. Altagracia, a Web Developer with 
 
 ---
 
-<h2>🛠️ My Toolkit 🛠️ </h2>
+<h2>🛠️ Tech Toolbox 🛠️ </h2>
 <h3>👨🏽‍💻 Programming Languages</h3>
 <p>
-   <a href=""><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
-   <a href=""><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a><br>
-   <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a><br>
-   <a href=""><img alt="SQL" src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
-   <a href=""><img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a><br>
-   <a href=""><img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"></a>
+   <a href=""><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26"></a>
+   <a href=""><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6"></a><br>
+   <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a><br>
+   <a href=""><img alt="SQL" src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=white"></a>
+   <a href=""><img alt="PHP" src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"></a><br>
+   <a href=""><img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white"></a>
 </p>
 
 
