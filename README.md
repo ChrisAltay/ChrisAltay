@@ -59,4 +59,17 @@ Welcome to my GitHub space! I'm Christopher P. Altagracia, a Web Developer with 
   <a href=""><img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white"></a>
 </p>
 
+<style> 
+
+a img {
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+a img:hover {
+  transform: scale(1.1);
+  background-color: #ffffff;
+}
+
+</style>
+
 
