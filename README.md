@@ -42,6 +42,8 @@ Welcome to my GitHub space! I'm Christopher P. Altagracia, a Web Developer with 
   <a href=""><img alt="FileZilla" src="https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white"></a>
   <a href=""><img alt="MobaXterm" src="https://img.shields.io/badge/-MobaXterm-05122A?style=flat&logo=mobaxterm&logoColor=00ADEF"></a>
   <a href=""><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?style=flat&logo=obs-studio&logoColor=white"></a>
+   <a href=""><img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00"></a>
+
 </p>
 
 
